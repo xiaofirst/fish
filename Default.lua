@@ -259,6 +259,7 @@ local tbl =
 			use = false,
 		},
 	},
+	--换鱼饵
 	swap_bait = 
 	{
 		[0] = 
